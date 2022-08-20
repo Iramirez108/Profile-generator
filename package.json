@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "directories": {
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
@@ -22,5 +23,6 @@
   "homepage": "https://github.com/Iramirez108/Profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {}
 }
