@@ -15,7 +15,7 @@ const addManager = () =>{
             type: 'input',
             name: 'name',
             message: 'Who is the manager of this team?',
-            validate: nameInpuit => {
+            validate: nameInput => {
                 if (nameInput){
                     return true;
                 } else {
@@ -75,7 +75,7 @@ const addManager = () =>{
 };
 
 const addEmployee = () => {
-    console.log(`Adding employees to the team`);
+    console.log(`Adding employees to the team`);        
 
     return inquirer.prompt ([
         {
@@ -182,7 +182,7 @@ const addEmployee = () => {
             return teamArray;
         }
     })
-
+    
 };
 
 
@@ -191,6 +191,7 @@ const writeFile = data => {
     fs.writeFile('./dist/index.html', data, err => {
         // if there is an error 
         if (err) {
+            console.log(data)
             console.log(err);
             return;
         // when the profile has been created 
@@ -201,8 +202,8 @@ const writeFile = data => {
 }; 
 
 addManager()
-  .then(addEmployee)
-  .then(teamArray => {
+.then(addEmployee)
+.then(teamArray => {
     return generateHTML(teamArray);
   })
   .then(pageHTML => {
