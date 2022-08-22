@@ -17,11 +17,7 @@ undefined
     Clone the repository from github and make sure you have Node downloaded. It also uses inquirer.
 
 ## Usage
-    Just answer the questions on the terminal. Click on the link to see the video:
-     [README generator.webm](https://user-images.githubusercontent.com/105662984/185816908-7a3a8c48-cf9b-41f6-bc4b-407342025898.webm)
-     
-     ![Team_profile](https://user-images.githubusercontent.com/105662984/185816947-44e167f9-5d9f-4fc4-86a8-aa4fb6a9d5d3.JPG)
-
+    Just answer the questions on the terminal.
 
 ## License
    This application is covered under the [Unlicensed] license. 
