@@ -35,4 +35,5 @@ Just answer the questions on the terminal or watch the video
 Please reach out to me with questions or comments. My GitHub user name is (https://github.com/iramirez108). My email address is ivan.ramirez10208@gmail.com.
        
 
-[](pictures/video/Untitled_%20Aug%2021,%202022%206_59%20PM.webm)
+[Untitled_ Aug 21, 2022 6_59 PM.webm](https://user-images.githubusercontent.com/105662984/185817657-31169b92-d142-46c2-bf24-c8311f9e57ed.webm)
+
