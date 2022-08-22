@@ -11,7 +11,7 @@ undefined
 * [Contributors](#contributors)
 * [Tests](#tests)
 * [Questions](#Questions)
-*[GitHub](#GitHub)
+* [GitHub](#GitHub)
 
 ## Installation
     Clone the repository from github and make sure you have Node downloaded. It also uses inquirer.
@@ -32,7 +32,7 @@ Just answer the questions on the terminal or watch the video
    Use test on the terminal
 
 ## Questions
-Please reach out to me with questions or comments. My GitHub user name is [undefined](https://github.com/ undefined). My email address is ivan.ramirez10208@gmail.com.
+Please reach out to me with questions or comments. My GitHub user name is (https://github.com/iramirez108). My email address is ivan.ramirez10208@gmail.com.
        
 
 [](pictures/video/Untitled_%20Aug%2021,%202022%206_59%20PM.webm)
