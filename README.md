@@ -17,14 +17,13 @@ undefined
     Clone the repository from github and make sure you have Node downloaded. It also uses inquirer.
 
 ## Usage
-<<<<<<< HEAD
-    Just answer the questions on the terminal or use the watch the video
+Just answer the questions on the terminal or watch the video
 ![](pictures/video/Team_profile.JPG)
-=======
-    Just answer the questions on the terminal.
->>>>>>> 77cd05a8e9453681e70473335bee5e1da5e2be68
 
 [](pictures/README%20generator.webm)
+
+
+
 ## License
    This application is covered under the [Unlicensed] license. 
 
