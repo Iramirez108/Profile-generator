@@ -20,7 +20,7 @@ undefined
 Just answer the questions on the terminal or watch the video
 ![](pictures/video/Team_profile.JPG)
 
-[](pictures/README%20generator.webm)
+[](../../../../../Desktop/README%20generator.webm)
 
 
 
